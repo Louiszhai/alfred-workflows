@@ -1,5 +1,8 @@
 # Alfred Workflows
 
+![License MIT](https://img.shields.io/npm/l/express.svg)
+![Alfred-Version](https://img.shields.io/badge/Alfred-2.x%7C3.x-lightgrey.svg)
+
 Alfred 是 mac 下最流行的提升效率的工具, 其中 Alfred workflow 又将它自身的强大性能提升了几个数量级. 下面分享几个自主研发的workflow 供大家玩味.
 
 ## Search*(v1.0)*
