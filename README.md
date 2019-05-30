@@ -5,6 +5,19 @@
 
 Alfred 是 mac 下最流行的提升效率的工具, 其中 Alfred workflow 又将它自身的强大性能提升了几个数量级. 下面分享几个自主研发的workflow 供大家玩味.
 
+## Finder Path*(v1.0)*
+
+[`[Download Finder Path]`](https://github.com/Louiszhai/alfred-workflows/blob/master/workflows/Finder%20Path.alfredworkflow?raw=true)
+
+通常，获取目录路径可能有以下几个场景：
+
+1. 配置代理，比如说 whistle，配置代理时需要本地文件路径；
+2. 需要在终端中打开当前目录，或者操作当前目录；
+3. 查看目录路径，用于脚本开发；
+4. 其它任何用途；
+
+设置快捷命令后，选中一个目录，按下快捷键，自动获取目录路径并复制到剪切板，然后就可以愉快的使用了（如果目录路径中包含了空格，会自动转义成反斜杆 \ 加空格的形式）。
+
 ## Search*(v1.0)*
 
 [`[Download Search]`](https://github.com/Louiszhai/alfred-workflows/blob/master/workflows/Search.alfredworkflow?raw=true)
